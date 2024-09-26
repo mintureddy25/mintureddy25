@@ -36,8 +36,9 @@ Feel free to connect with me on:
 </p>
 
 
-
+<!--
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+-->
 
 <h4 align="left">Visitor's count :eyes:</h4>
 
