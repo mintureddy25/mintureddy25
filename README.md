@@ -11,13 +11,19 @@
 
 <h4>Here are some of the technologies and tools I'm proficient in:</h4>
 
-- languages: Java, python, php, javascript, typescript
-- frameWork/library:
-  - Back-end: SpringBoot, hibernate, Slim , Express
-  - Front-end: React, Next, Tailwind
-- Database: SQL, ElasticSeach, Redis
-- Message-Brokers: BeanStalk
-- Other: Git, RESTful APIs, Cron, AWS, Docker
+<ul>
+    <li>Languages: Java, Python, PHP, JavaScript, TypeScript</li>
+    <li>Framework/Library:
+        <ul>
+            <li>Back-end: Spring Boot, Hibernate, Slim, Express, Node.js</li>
+            <li>Front-end: React, Next.js, Tailwind CSS</li>
+        </ul>
+    </li>
+    <li>Database: SQL, Elasticsearch, Redis</li>
+    <li>Message Brokers: Beanstalk</li>
+    <li>Other: Git, RESTful APIs, Cron, AWS, Docker</li>
+</ul>
+
 
 
 ## GitHub Stats
