@@ -15,13 +15,13 @@
     <li>Languages: Java, Python, PHP, JavaScript, TypeScript</li>
     <li>Framework/Library:
         <ul>
-            <li>Back-end: Spring Boot, Hibernate, Slim, Express, Node.js</li>
+            <li>Back-end: Express, Node.js, php Slim</li>
             <li>Front-end: React, Next.js, Tailwind CSS</li>
         </ul>
     </li>
     <li>Database: SQL, Elasticsearch, Redis</li>
     <li>Message Brokers: Beanstalk</li>
-    <li>Other: Git, RESTful APIs, Cron, AWS, Docker</li>
+    <li>Other: Git, RESTful APIs, Cron, AWS, Docker, websockets</li>
 </ul>
 
 
