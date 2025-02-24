@@ -15,7 +15,7 @@
     <li>Languages: Java, Python, PHP, JavaScript, TypeScript</li>
     <li>Framework/Library:
         <ul>
-            <li>Back-end: Express, Node.js, php Slim</li>
+            <li>Back-end: Express, Node.js, Nest js, php Slim</li>
             <li>Front-end: React, Next.js, Tailwind CSS</li>
         </ul>
     </li>
