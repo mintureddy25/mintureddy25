@@ -5,7 +5,7 @@
 <h3 align="center">I’m a Full Stack Developer who loves combining coding expertise with a passion for YouTube content creation.I enjoy building engaging user experiences and exploring innovative ways to bring ideas to life through technology and video.Let’s create something amazing together!</h3>
 <img align="right" alt="Coding" width="350" src=https://r2.erweima.ai/imgcompressed/img/compressed_ebfa79274782c7e55c16cc17b58831e5.webp>
 
-- 👨‍💻 Step Into My World of Innovation: [https://saiteja.online](https://saiteja.online)
+- 👨‍💻 Step Into My World of Innovation: [https://saitejareddy.online](https://saitejareddy.online)
 
 - 📫 How to reach me **chappetasaitejareddy@gmail.com**
 
