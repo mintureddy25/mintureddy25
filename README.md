@@ -46,7 +46,7 @@ Feel free to connect with me on:
 <h2>👀 Visitor's Count</h2>
 
 <p align="left">
-  <img src="https://hits.sh/github.com/mintureddy25.svg?style=for-the-badge&label=VISITORS&extraCount=2150&color=7A7ADB" alt="visitor count" height="40" />
+  <img src="https://hits.sh/github.com/mintureddy25.svg?style=for-the-badge&label=&extraCount=2150&color=7A7ADB" alt="visitor count" height="50" />
 </p>
 
 Let's code together and make the web a better place! 🚀
