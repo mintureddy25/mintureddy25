@@ -28,7 +28,6 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mintureddy25&count_private=true&show_icons=false&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Sai Teja Reddy's Github Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=mintureddy25&theme=tokyonight&hide_border=true" alt="Sai Teja Reddy's GitHub Streak" />
 
