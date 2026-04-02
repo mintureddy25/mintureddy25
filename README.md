@@ -3,7 +3,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Sai Teja Reddy</h1>
 <h3 align="center">I'm a Full Stack Developer who loves combining coding expertise with a passion for YouTube content creation. I enjoy building engaging user experiences and exploring innovative ways to bring ideas to life through technology and video. Let's create something amazing together!</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/mintureddy25/mintureddy25/main/vecteezy_3d-male-character-sitting-on-a-sofa-and-working-on-a-laptop_24658876.png">
 
 - 👨‍💻 Step Into My World of Innovation: [https://saitejareddy.online](https://saitejareddy.online)
 
@@ -28,7 +28,7 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mintureddy25&count_private=true&show_icons=false&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Sai Teja Reddy's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mintureddy25&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&cache_seconds=86400" alt="Sai Teja Reddy's Github Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintureddy25&theme=tokyonight&hide_border=true" alt="Sai Teja Reddy's GitHub Streak" />
 
@@ -46,12 +46,8 @@ Feel free to connect with me on:
 <h2>👀 Visitor's Count</h2>
 
 <p align="left">
-  <a href="https://github.com/mintureddy25">
-    <img src="https://komarev.com/ghpvc/?username=mintureddy25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=2150" alt="mintureddy25" height="35" />
-  </a>
+  <img src="https://count.getloli.com/get/@mintureddy25?theme=rule34" alt="visitor count" />
 </p>
-
-<br>
 
 Let's code together and make the web a better place! 🚀
 
