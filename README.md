@@ -28,6 +28,7 @@
 
 ## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=mintureddy25&count_private=true&show_icons=false&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Sai Teja Reddy's Github Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=mintureddy25&theme=tokyonight&hide_border=true" alt="Sai Teja Reddy's GitHub Streak" />
 
@@ -45,7 +46,7 @@ Feel free to connect with me on:
 <h2>👀 Visitor's Count</h2>
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=mintureddy25&label=&color=6&icon=5&pretty=true&base=2150" alt="visitor count" />
+  <img src="https://hits.sh/github.com/mintureddy25.svg?style=for-the-badge&label=VISITORS&extraCount=2150&color=7A7ADB" alt="visitor count" height="40" />
 </p>
 
 Let's code together and make the web a better place! 🚀
