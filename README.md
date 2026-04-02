@@ -28,9 +28,9 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mintureddy25&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&cache_seconds=86400" alt="Sai Teja Reddy's Github Stats" />
+<img src="https://github-readme-stats-mintureddy25.vercel.app/api?username=mintureddy25&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Sai Teja Reddy's Github Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mintureddy25&theme=tokyonight&hide_border=true" alt="Sai Teja Reddy's GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mintureddy25&theme=tokyonight&hide_border=true" alt="Sai Teja Reddy's GitHub Streak" />
 
 ## Let's Connect
 
@@ -46,7 +46,7 @@ Feel free to connect with me on:
 <h2>👀 Visitor's Count</h2>
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@mintureddy25?theme=rule34" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=mintureddy25&label=&color=blueviolet&style=for-the-badge&base=2150" alt="visitor count" height="40" />
 </p>
 
 Let's code together and make the web a better place! 🚀
